@@ -6,3 +6,4 @@ docs: add line for guild commit #5
 docs: add line for guild commit #6
 docs: add line for guild commit #7
 docs: add line for guild commit #8
+docs: add line for guild commit #9
